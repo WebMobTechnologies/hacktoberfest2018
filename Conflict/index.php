@@ -7,7 +7,7 @@ class Conflict {
     }
 
     public function x() {
-        $x = "Data";
+        $x = "Datasdasdasda";
         return $x;
     }
 }
