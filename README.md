@@ -39,6 +39,7 @@ Kashyap Merai | Web Team Lead | Ahmedabad, India | [Profile](http://kamerk22.git
 - Pocholo Recto | Web developer | Philippines | [Profile](https://github.com/cholorecto)
 - Kerstine Rodilla | Quality Assurance | Philippines | [Profile](https://github.com/kerstinerodilla)
 - Sujal Patel | Web Team Lead | Ahmedabad, India | [Profile](https://github.com/sujalpatel2209)
+- Samir Solanki | Mobile Lead | Ahmedabad, India | [Profile](https://github.com/samsol38)
 - Digvijay Singh | Student | Vadodara, India | [Profile](https://github.com/diggis00)
 - Kadivar Amit | Student | Rajkot,Gujarat | [Profile](https://github.com/amitkadivar1)
 - Jay Chhatrola | Web Developer | Rajkot, India | [Profile](https://github.com/jaychhatrola)
