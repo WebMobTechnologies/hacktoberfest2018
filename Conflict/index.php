@@ -8,6 +8,7 @@ class Conflict {
 
     public function x() {
         $x = "Datasdasdasda";
+        $y = "Datasdasdasda";
         return $x;
     }
 }
