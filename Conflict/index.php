@@ -2,8 +2,13 @@
 
 class Conflict {
 
-    public function x() {
+    public function xx() {
         return "okay";
+    }
+
+    public function x() {
+        $x = "Data";
+        return $x;
     }
 }
 ?>
