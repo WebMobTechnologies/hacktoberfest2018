@@ -53,3 +53,4 @@ Kashyap Merai | Web Team Lead | Ahmedabad, India | [Profile](http://kamerk22.git
 - Shubham Sachania | Student | Ahmedabad, India | [Profile](https://github.com/ShubhamSachania)
 - Chirag Patil | Student | Rajkot, India | [Profile](https://github.com/chiragpatil)
 - Jinette Olsen | Student | Atlanta, GA USA | [Profile](https://github.com/pomegranatered)
+- Prasadee Jayasuriya | Student | Sri Lanka | [Profile](https://github.com/prasadeej)
