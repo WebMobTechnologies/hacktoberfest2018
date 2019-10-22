@@ -29,5 +29,6 @@ Kashyap Merai | Web Team Lead | Ahmedabad, India | [Profile](http://kamerk22.git
 
 ## Awesome Contributors 😎
 
-- ### Amit Kadivar
-- ### Jay Akbari
+- Amit Kadivar
+- Jay Akbari
+- Bhavik Vachani
